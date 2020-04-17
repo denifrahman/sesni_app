@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615551499922",
+    "firebase_url": "https://sesnic.firebaseio.com",
+    "project_id": "sesnic",
+    "storage_bucket": "sesnic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615551499922:android:cdfc935e7cd7fb7cd7f04b",
+        "android_client_info": {
+          "package_name": "sesnic_app.sesnic_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615551499922-n8ndl04619r8mc0ptd4l5i1pbige29ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sesnic_app.sesnic_app",
+            "certificate_hash": "98279b59d05bfa2ffbf30657b89988e5da4e8c36"
+          }
+        },
+        {
+          "client_id": "615551499922-1ig2mutirrqvm1tnupivl5tpkh40h9nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaQdIgeHQbEfYRgwVf9nX-xlsuvbiYpaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615551499922-1ig2mutirrqvm1tnupivl5tpkh40h9nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
